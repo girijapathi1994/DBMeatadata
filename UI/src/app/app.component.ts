@@ -7,7 +7,7 @@ import { Component,OnInit} from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent{
-  title = 'DB Metadata dev new updated new';
+  title = 'DB';
   constructor(){
 
   }
